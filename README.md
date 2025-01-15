@@ -1,6 +1,6 @@
 # Task Monitor
 
-This basic Python task tracker application assists with organizing tasks.
+This is a simple task management application where users can add, update, delete, and list tasks via a command-line interface (CLI). The task manager supports both task names and task IDs for various actions.
 
 ## Features: - **Add Task:** Create new tasks with descriptions.
 - **List Tasks:** Shows all tasks with their creation date, name, description, and status.
