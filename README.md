@@ -31,4 +31,6 @@ This is a simple task management application where users can add, update, delete
 
 For long-term storage, the application automatically saves tasks to a `tasks.json` file.
 
-https://github.com/senagreene/python-practice/blob/main/TaskTracker.py
+Project URL:
+[Task Tracker GitHub Repository](https://github.com/senagreene/python-practice)
+
