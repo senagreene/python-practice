@@ -31,6 +31,5 @@ This is a simple task management application where users can add, update, delete
 
 For long-term storage, the application automatically saves tasks to a `tasks.json` file.
 
-Project URL:
-https://roadmap.sh/projects/task-tracker
+Project URL: [Task Tracker Roadmap](https://roadmap.sh/projects/task-tracker)
 
